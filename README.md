@@ -58,8 +58,14 @@ export default {
 
 Using buttoncommand:
 
-```javascript
+```html
 <buttoncommand :command="compute">
 	Submit
 </buttoncommand> 
+```
+
+### Installation
+- Available through:
+``` js
+ npm install neutronium-vue-simple-command-mixin
 ```
