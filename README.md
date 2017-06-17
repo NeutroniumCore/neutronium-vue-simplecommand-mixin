@@ -67,5 +67,5 @@ Using buttoncommand:
 ### Installation
 - Available through:
 ``` js
- npm install neutronium-vue-simple-command-mixin
+ npm install neutronium-vue-simple-command-mixin --save
 ```
