@@ -44,7 +44,7 @@ Example usage, declaring buttoncommand component in a .vue file (using semantic 
   </div>
 </template>
 <script>
-import comandMixin from 'neutronium-vue-command-mixin'
+import comandMixin from 'neutronium-vue-simple-command-mixin'
 
 export default {
   mixins:[comandMixin]
@@ -52,7 +52,6 @@ export default {
 </script>
 
 <style>
-@import '~dist/semantic.css';
 </style>
 ```
 
