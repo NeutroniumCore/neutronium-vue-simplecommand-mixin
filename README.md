@@ -3,7 +3,8 @@
 Mixin to integrate MVVM ICommand with vue
 
 [![Npm version](https://img.shields.io/npm/v/neutronium-vue-simple-command-mixin.svg?maxAge=2592000)](https://www.npmjs.com/package/neutronium-vue-simple-command-mixin)
-[![MIT License](https://img.shields.io/github/license/NeutroniumCore/neutronium-vue-simple-command-mixin.svg)](https://github.com/David-Desmaisons/neutronium-vue-simplecommand-mixin/blob/LICENSE)
+[![MIT License](https://img.shields.io/github/license/NeutroniumCore/neutronium-vue-simplecommand-mixin.svg)](https://github.com/NeutroniumCore/neutronium-vue-simplecommand-mixin/blob/master/LICENSE)
+[![Npm version](https://img.shields.io/npm/v/neutronium-vue-simple-command-mixin.svg?maxAge=2592000)](https://www.npmjs.com/package/neutronium-vue-simple-command-mixin)
 
 
 ### Usage
