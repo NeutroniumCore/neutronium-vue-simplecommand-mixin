@@ -24,6 +24,12 @@ Required: `false`
 
 The argument that will be passed to command when execute is called.
 
+## Computed
+### `canExecute`
+Type: `Boolean`<br>
+
+true if Command CanExecute is true.
+
 ## Methods
 ### `execute`
 
